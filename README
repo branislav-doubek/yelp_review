@@ -1,1 +1,2 @@
-
+## Yelp review dataset
+ download glove(found in: https://nlp.stanford.edu/projects/glove/),wordnet(found in: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and extract them inside the folder in which we run this notebook
