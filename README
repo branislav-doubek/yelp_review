@@ -1,4 +1,6 @@
 ## Download requirements
+* Download csv version of yelp dataset
 * download glove(found in: https://nlp.stanford.edu/projects/glove/)
 * download wordnet(found in: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
-* extract them inside the folder in which we run this notebook
+* extract them inside the folder in which you run your notebook
+
